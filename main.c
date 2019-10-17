@@ -196,7 +196,7 @@ void init_answer(struct DNS_ANSWER *answer, struct DNS_QUESTION *question)
     unsigned char redirection_ip[MAX_IP_SIZE];
 
     FILE *fp;
-    fp = fopen("E:\\config", "r");
+    fp = fopen("config", "r");
     if (fp == NULL)
     {
         printf("could not open config file\n");
