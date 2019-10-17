@@ -1,0 +1,3 @@
+C:/Users/Reshad-Hasan/CLionProjects/generate DNS response packet from query/cmake-build-debug-mingw-1/CMakeFiles/untitled2.dir
+C:/Users/Reshad-Hasan/CLionProjects/generate DNS response packet from query/cmake-build-debug-mingw-1/CMakeFiles/edit_cache.dir
+C:/Users/Reshad-Hasan/CLionProjects/generate DNS response packet from query/cmake-build-debug-mingw-1/CMakeFiles/rebuild_cache.dir

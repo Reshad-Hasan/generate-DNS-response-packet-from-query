@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Reshad-Hasan/CLionProjects/generate DNS response packet from query/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+winsock.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+
